@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kingshuk-sarkar-8850aa222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kingshuk-sarkar-8850aa222" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kingshuk3006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kingshuk3006" height="30" width="40" /></a>
-<a href="https://fb.com/kingshuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kingshuk" height="30" width="40" /></a>
+<a href="https://fb.com/kingshuk](https://www.facebook.com/kingshuk.sarkar.1466/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kingshuk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
