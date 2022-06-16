@@ -28,4 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingshuk3006&" alt="kingshuk3006" /></p>
 
-<img src="https://raw.githubusercontent.com/Kingshuk3006/github-readme-activity-graph/e3a38e397f7c75bcd884b28f858bf9a1c3c7161b/asset/redical.svg">
