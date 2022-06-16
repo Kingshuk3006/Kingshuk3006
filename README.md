@@ -26,4 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingshuk3006&show_icons=true&locale=en" alt="kingshuk3006" /></p>
 
+<img src="https://camo.githubusercontent.com/f54d70bc82e8a210ed379c125ecbe89d6462064d941c7fcd21bcfc3ad43082ed/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d4172697472613737372662675f636f6c6f723d30443131313726636f6c6f723d354243444543266c696e653d35424344454326706f696e743d46464646464626686964655f626f726465723d74727565" alt="Aritra's GitHub activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Aritra777&amp;bg_color=0D1117&amp;color=5BCDEC&amp;line=5BCDEC&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingshuk3006&" alt="kingshuk3006" /></p>
