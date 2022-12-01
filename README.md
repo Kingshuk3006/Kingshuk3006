@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **weframe.tech**
 
-- 🌱 I’m currently learning **Firebase, Typescript, cockroachDB, DSA**
+- 🌱 I’m currently learning **Firebase, Typescript, DSA**
 
 - 💬 Ask me about **react, next js, tailwind**
 
